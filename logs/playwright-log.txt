@@ -1,0 +1,57 @@
+{"level":30,"time":"2025-03-16T17:46:41.082Z","pid":13744,"hostname":"Rafa","msg":"Listening on 53436"}
+(node:13744) DeprecationWarning: Calling start() is no longer necessary. It can be safely omitted.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":"2025-03-16T17:46:41.198Z","pid":13744,"hostname":"Rafa","msg":"Start of node method initializeExtension"}
+{"level":30,"time":"2025-03-16T17:46:41.198Z","pid":13744,"hostname":"Rafa","msg":"Initializing extension: C:\\Users\\rafar\\Desktop\\qax\\projects\\parodify-robot\\resources\\module.js"}
+{"level":30,"time":"2025-03-16T17:46:41.200Z","pid":13744,"hostname":"Rafa","msg":"End of node method initializeExtension"}
+{"level":30,"time":"2025-03-16T17:46:41.199Z","pid":13744,"hostname":"Rafa","msg":"Adding 1 keywords from JS Extension"}
+{"level":30,"time":"2025-03-16T17:46:41.235Z","pid":13744,"hostname":"Rafa","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-03-16T17:46:41.235Z","pid":13744,"hostname":"Rafa","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-03-16T17:46:41.237Z","pid":13744,"hostname":"Rafa","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-03-16T17:46:41.237Z","pid":13744,"hostname":"Rafa","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-03-16T17:46:41.240Z","pid":13744,"hostname":"Rafa","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2025-03-16T17:46:41.384Z","pid":13744,"hostname":"Rafa","msg":"Adding browser to stack: chromium, version: 133.0.6943.16"}
+{"level":30,"time":"2025-03-16T17:46:41.384Z","pid":13744,"hostname":"Rafa","msg":"End of node method newBrowser"}
+{"level":30,"time":"2025-03-16T17:46:41.384Z","pid":13744,"hostname":"Rafa","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2025-03-16T17:46:41.389Z","pid":13744,"hostname":"Rafa","msg":"Start of node method newPage"}
+{"level":30,"time":"2025-03-16T17:46:41.389Z","pid":13744,"hostname":"Rafa","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2025-03-16T17:46:41.402Z","pid":13744,"hostname":"Rafa","msg":"Changed active context"}
+{"level":30,"time":"2025-03-16T17:46:41.505Z","pid":13744,"hostname":"Rafa","msg":"Video path: undefined"}
+{"level":30,"time":"2025-03-16T17:46:41.505Z","pid":13744,"hostname":"Rafa","msg":"Changed active page"}
+{"level":30,"time":"2025-03-16T17:46:41.560Z","pid":13744,"hostname":"Rafa","msg":"End of node method newPage"}
+{"level":30,"time":"2025-03-16T17:46:41.570Z","pid":13744,"hostname":"Rafa","msg":"Start of node method goTo"}
+{"level":30,"time":"2025-03-16T17:46:42.783Z","pid":13744,"hostname":"Rafa","msg":"End of node method goTo"}
+{"level":30,"time":"2025-03-16T17:46:42.786Z","pid":13744,"hostname":"Rafa","msg":"Start of node method getText"}
+{"level":30,"time":"2025-03-16T17:46:42.787Z","pid":13744,"hostname":"Rafa","msg":"Strict mode is enabled, find Locator with css=.logged-user in page."}
+{"level":30,"time":"2025-03-16T17:46:42.822Z","pid":13744,"hostname":"Rafa","msg":"Retrieved text for element css=.logged-user containing Fernando Papito"}
+{"level":30,"time":"2025-03-16T17:46:42.822Z","pid":13744,"hostname":"Rafa","msg":"End of node method getText"}
+{"level":30,"time":"2025-03-16T17:46:42.827Z","pid":13744,"hostname":"Rafa","msg":"Start of node method click"}
+{"level":30,"time":"2025-03-16T17:46:42.827Z","pid":13744,"hostname":"Rafa","msg":"Strict mode is enabled, find Locator with xpath=//div[contains(@class, \"song\")]//h6[text()=\"Smells Like Test Script\"]/..//button[contains(@class,\"play\")] in page."}
+{"level":30,"time":"2025-03-16T17:46:42.870Z","pid":13744,"hostname":"Rafa","msg":"End of node method click"}
+{"level":30,"time":"2025-03-16T17:46:42.873Z","pid":13744,"hostname":"Rafa","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-03-16T17:46:42.873Z","pid":13744,"hostname":"Rafa","msg":"Strict mode is enabled, find Locator with xpath=//div[contains(@class, \"song\")]//h6[text()=\"Smells Like Test Script\"]/..//button[contains(@class,\"pause\")] in page."}
+{"level":30,"time":"2025-03-16T17:46:42.973Z","pid":13744,"hostname":"Rafa","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-03-16T17:46:42.976Z","pid":13744,"hostname":"Rafa","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2025-03-16T17:46:42.976Z","pid":13744,"hostname":"Rafa","msg":"Strict mode is enabled, find Locator with xpath=//div[contains(@class, \"song\")]//h6[text()=\"Smells Like Test Script\"]/..//button[contains(@class,\"play\")] in page."}
+{"level":30,"time":"2025-03-16T17:46:47.900Z","pid":13744,"hostname":"Rafa","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2025-03-16T17:46:47.903Z","pid":13744,"hostname":"Rafa","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2025-03-16T17:46:47.903Z","pid":13744,"hostname":"Rafa","Take screenshot with options: ":{"path":"C:\\Users\\rafar\\Desktop\\qax\\projects\\parodify-robot\\logs\\browser\\screenshot\\robotframework-browser-screenshot-1.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2025-03-16T17:46:47.983Z","pid":13744,"hostname":"Rafa","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2025-03-16T17:46:47.987Z","pid":13744,"hostname":"Rafa","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-03-16T17:46:47.988Z","pid":13744,"hostname":"Rafa","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-03-16T17:46:47.989Z","pid":13744,"hostname":"Rafa","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-03-16T17:46:47.990Z","pid":13744,"hostname":"Rafa","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-03-16T17:46:47.992Z","pid":13744,"hostname":"Rafa","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-03-16T17:46:47.993Z","pid":13744,"hostname":"Rafa","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-03-16T17:46:47.994Z","pid":13744,"hostname":"Rafa","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-03-16T17:46:47.995Z","pid":13744,"hostname":"Rafa","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-03-16T17:46:47.996Z","pid":13744,"hostname":"Rafa","msg":"Changed active context"}
+{"level":30,"time":"2025-03-16T17:46:47.996Z","pid":13744,"hostname":"Rafa","msg":"Changing current active page: page=0c097c69-1c23-498b-acbe-7c6bce00c881"}
+{"level":30,"time":"2025-03-16T17:46:47.997Z","pid":13744,"hostname":"Rafa","msg":"Changed active page"}
+{"level":30,"time":"2025-03-16T17:46:47.998Z","pid":13744,"hostname":"Rafa","msg":"Start of node method closeContext"}
+{"level":30,"time":"2025-03-16T17:46:48.008Z","pid":13744,"hostname":"Rafa","msg":"Removed page=fafe99a4-8d0e-4464-bb9a-115822265701 from context=f60dd319-61ee-4ec7-8f80-2743420b3d6c page stack"}
+{"level":30,"time":"2025-03-16T17:46:48.019Z","pid":13744,"hostname":"Rafa","msg":"End of node method closeContext"}
+{"level":30,"time":"2025-03-16T17:46:48.024Z","pid":13744,"hostname":"Rafa","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-03-16T17:46:48.024Z","pid":13744,"hostname":"Rafa","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-03-16T17:46:48.054Z","pid":13744,"hostname":"Rafa","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2025-03-16T17:46:48.173Z","pid":13744,"hostname":"Rafa","msg":"End of node method closeAllBrowsers"}
